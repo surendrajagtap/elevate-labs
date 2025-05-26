@@ -1,0 +1,24 @@
+
+# Nmap Scan Report
+# Date: 2025-05-26
+
+Nmap scan report for 192.168.1.1
+Host is up (0.0030s latency).
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+
+Nmap scan report for 192.168.1.105
+Host is up (0.0025s latency).
+PORT     STATE SERVICE
+22/tcp   open  ssh
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+
+Nmap scan report for 192.168.1.110
+Host is up (0.0040s latency).
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+
+# End of report
